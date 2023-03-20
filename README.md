@@ -1,4 +1,4 @@
-<p align=center> <img src="./images/main.png">
+<p align=center> <img src="./images/main.png" width=60%>
 
 ## About Me
 
