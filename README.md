@@ -4,8 +4,8 @@
 안녕하세요, 저는 saint-hong 입니다. 데이터 분석과 딥러닝 모델링에 깊은 지식을 가진 데이터 사이언티스트가 되기 위해 노력하고 있습니다. Jupyter Notebook 개발환경과 TensorFlow 프레임워크에서 Python 언어를 사용하여 데이터 분석을 하고 있습니다. 비즈니스 성과를 위한 1bite라도 더 과학적인 데이터 사이언스 방법론을 지향합니다. 
 
 ## Interest these days
-- 딥러닝 SOTA : CNN, VGG, Yolo, Resnet, DensNet, MobileNetV2, HRNet, CoAtNet, VIT, ConvNeXt
-- 자연어 분석 : CNN & RNN, Highway Networks, NLG, Seq2seq, Bert
+- 딥러닝 SOTA : NeuralNet, CNN, VGG, Yolo, Resnet, DensNet, MobileNetV2, HRNet, CoAtNet, VIT, ConvNeXt
+- 자연어 분석 : RNN, LSTM, Highway Networks, NLG, Seq2seq, Bert
 - 컴퓨터 비전 : SSL, XAI, MOCO, BYOL
   
 ## TMI
