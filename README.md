@@ -9,6 +9,7 @@
 2. 데이터 사이언스 기반 ML/DL 모델링
 3. 쿠버네티스 기반 MLOps CI/CD 파이프라인 구축
 4. 백엔드 API 개발
+5. AI 리서치
 
 ## Interest these days
 - OpenML과 Kaggle에서 다양한 형태의 데이터를 접하고 이를 분석하여 데이터 기반 인사이트를 도출하는 것을 좋아합니다.
