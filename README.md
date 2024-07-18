@@ -21,4 +21,4 @@
 ## TMI
 스마트폰 부터 AI까지 기술의 발달은 터프한 상태에서 섬세한 상태로 진보하며 이 과정은 기술이라는 날실과 상상이라는 씨실로 직조된다고 생각합니다. 새로운 기술이 상용화 되기까지 다양한 범용기술과 수 많은 상상들이 융합하는 과정이 필요합니다. 이러한 측면에서 상상만 해도 돈을 벌 수 있는 수익 구조를 만들어 가는 ghm.co를 운영하고 있습니다. 
 
-<p align=center> <img src="./images/main.png" width=65% height=70%>
+<p align=center> <img src="./images/main.png" width=60% height=60%>
